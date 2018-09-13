@@ -1,0 +1,27 @@
+_repo: The-Art-of-Bookbinding-A-practical-treatise-with-plates-and-diagrams_51213
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zaehnsdorf, Joseph William
+    alias: Zaehnsdorf, Joseph W.
+    birthdate: 1853
+    deathdate: 1930
+    gutenberg_agent_id: '46301'
+    url: http://www.gutenberg.org/2009/agents/46301
+description: ''
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51213'
+  lccn: 09007188
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bookbinding'
+- !lcsh 'Bookbinding -- Handbooks, manuals, etc.'
+- GITenberg
+title: 'The Art of Bookbinding: A practical treatise, with plates and diagrams'
+url: http://www.gutenberg.org/ebooks/51213
