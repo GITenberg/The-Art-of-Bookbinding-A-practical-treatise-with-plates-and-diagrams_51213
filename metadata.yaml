@@ -1,5 +1,8 @@
 _repo: The-Art-of-Bookbinding-A-practical-treatise-with-plates-and-diagrams_51213
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51213-h/images/cover.jpg
 creator:
   author:
     agent_name: Zaehnsdorf, Joseph William
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46301'
     url: http://www.gutenberg.org/2009/agents/46301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51213#The-Art-of-Bookbinding-A-practical-treatise-with-plates-and-diagrams
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text
 identifiers:
